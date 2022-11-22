@@ -1,5 +1,4 @@
 # git_study
 git study
 
-
-test
+日本語テスト
